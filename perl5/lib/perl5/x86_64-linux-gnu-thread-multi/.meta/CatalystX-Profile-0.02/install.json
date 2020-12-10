@@ -1,0 +1,1 @@
+{"version":0.02,"target":"CatalystX::Profile","dist":"CatalystX-Profile-0.02","name":"CatalystX::Profile","provides":{"CatalystX::Profile":{"version":0.02,"file":"lib/CatalystX/Profile.pm"},"CatalystX::Profile::Controller::ControlProfiling":{"version":0.02,"file":"lib/CatalystX/Profile/Controller/ControlProfiling.pm"}},"pathname":"J/JJ/JJNAPIORK/CatalystX-Profile-0.02.tar.gz"}

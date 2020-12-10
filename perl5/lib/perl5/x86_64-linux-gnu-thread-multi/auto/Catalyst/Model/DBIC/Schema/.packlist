@@ -1,0 +1,13 @@
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/Helper/Model/DBIC/Schema.pm
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/Model/DBIC/Schema.pm
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/Model/DBIC/Schema/Types.pm
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/TraitFor/Model/DBIC/Schema/Caching.pm
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/TraitFor/Model/DBIC/Schema/PerRequestSchema.pm
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/TraitFor/Model/DBIC/Schema/Replicated.pm
+/home/fsiddiqui/perl5/lib/perl5/Catalyst/TraitFor/Model/DBIC/Schema/SchemaProxy.pm
+/home/fsiddiqui/perl5/man/man3/Catalyst::Helper::Model::DBIC::Schema.3pm
+/home/fsiddiqui/perl5/man/man3/Catalyst::Model::DBIC::Schema.3pm
+/home/fsiddiqui/perl5/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::Caching.3pm
+/home/fsiddiqui/perl5/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema.3pm
+/home/fsiddiqui/perl5/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::Replicated.3pm
+/home/fsiddiqui/perl5/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy.3pm

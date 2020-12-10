@@ -1,0 +1,1 @@
+{"pathname":"E/ET/ETHER/FCGI-0.79.tar.gz","name":"FCGI","dist":"FCGI-0.79","provides":{"FCGI::Stream":{"file":"FCGI.pm","version":0.79},"FCGI":{"version":0.79,"file":"FCGI.pm"}},"target":"FCGI","version":0.79}

@@ -1,0 +1,1 @@
+{"target":"CatalystX::InjectComponent","version":0.025,"pathname":"R/RO/ROKR/CatalystX-InjectComponent-0.025.tar.gz","provides":{"CatalystX::InjectComponent":{"version":0.025,"file":"lib/CatalystX/InjectComponent.pm"}},"name":"CatalystX::InjectComponent","dist":"CatalystX-InjectComponent-0.025"}

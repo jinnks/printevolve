@@ -1,0 +1,1 @@
+{"target":"Catalyst::ActionRole::ACL","version":0.07,"pathname":"B/BO/BOBTFISH/Catalyst-ActionRole-ACL-0.07.tar.gz","provides":{"Catalyst::ActionRole::ACL":{"version":0.07,"file":"lib/Catalyst/ActionRole/ACL.pm"},"Catalyst::Action::Role::ACL":{"version":0.07,"file":"lib/Catalyst/Action/Role/ACL.pm"}},"dist":"Catalyst-ActionRole-ACL-0.07","name":"Catalyst::ActionRole::ACL"}

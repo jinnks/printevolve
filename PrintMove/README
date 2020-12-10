@@ -1,0 +1,6 @@
+1. Clone the repository.
+2. Insert the following lines into your .bashrc
+PERL5LIB=$HOME/perl5/lib/perl5
+PATH=$PATH:$HOME/perl5/bin
+eval "$(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib)"
+2. Run script/printmove_server.pl to test the application.

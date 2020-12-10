@@ -1,0 +1,1 @@
+{"pathname":"L/LD/LDS/Crypt-CBC-2.33.tar.gz","name":"Crypt::CBC","dist":"Crypt-CBC-2.33","provides":{"Crypt::CBC":{"version":2.33,"file":"CBC.pm"}},"version":2.33,"target":"Crypt::CBC"}

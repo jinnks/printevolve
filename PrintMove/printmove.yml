@@ -1,0 +1,6 @@
+# rename this file to printmove.yml and put a ':' after 'name' if
+# you want to use YAML like in old versions of Catalyst
+name: PrintMove
+Controller::Requests:
+    uploaded_files_dir: /tmp/printmove/
+    email_jobs_dir: /tmp/email_jobs/

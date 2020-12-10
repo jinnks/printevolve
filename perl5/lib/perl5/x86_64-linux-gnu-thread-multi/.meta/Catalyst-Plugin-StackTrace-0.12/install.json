@@ -1,0 +1,1 @@
+{"version":0.12,"target":"Catalyst::Plugin::StackTrace","pathname":"B/BO/BOBTFISH/Catalyst-Plugin-StackTrace-0.12.tar.gz","dist":"Catalyst-Plugin-StackTrace-0.12","name":"Catalyst::Plugin::StackTrace","provides":{"Catalyst::Plugin::StackTrace":{"version":0.12,"file":"lib/Catalyst/Plugin/StackTrace.pm"}}}
