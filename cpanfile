@@ -6,3 +6,4 @@ requires 'DBD::SQLite';
 requires 'Catalyst::Model::DBIC::Schema';
 requires 'JSON';
 requires 'Data::Printer';
+requires 'YAML::XS';
