@@ -1,0 +1,7 @@
+Docker app:
+
+1. Clone the repo.
+2. Install docker.
+3. Install docker-compose (Needs python and pip3) pip3 install docker-compose.
+4. Run "docker-compose up" and it should build and run the app.
+5. Visit localhost:3000 to view the app.
