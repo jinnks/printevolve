@@ -25,6 +25,7 @@ Catalyst Controller.
 
 sub index :Path :Args(0) {
     my ($self, $c) = @_;
+    p($c->request);
     $c->stash(clients => [$c->model('DB::Client')->all]);
     my $file_drop_location = $self->{uploaded_files_dir};
     my $email_jobs_dir = $self->{email_jobs_dir};
@@ -33,7 +34,6 @@ sub index :Path :Args(0) {
     my $subject = $params->{subject};
     my $form_type = $params->{form_type}?'ammendment':'tech_support';
     my $file;
-    p($params);
     if (keys %{$params}){
         my $email_job = {
           "to" => 'foo@bar.com',
@@ -48,7 +48,6 @@ sub index :Path :Args(0) {
          });
          $request->create_related('client_requests',{client_id => $client});
         foreach my $field ($c->request->upload("myfile")){
-              ($field->tempname);
               $field->copy_to($file_drop_location);
               push @{$email_job->{"attachements"}}, {"mime-type" => "text/plain", "file" => $field->tempname};
             }

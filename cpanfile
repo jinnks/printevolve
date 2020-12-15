@@ -9,3 +9,4 @@ requires 'Data::Printer';
 requires 'YAML::XS';
 requires 'MooseX::NonMoose';
 requires 'MooseX::Daemonize';
+requires 'Test::JSON';
